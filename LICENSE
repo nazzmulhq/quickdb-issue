@@ -1,0 +1,241 @@
+QuickDB — End User License Agreement (EULA)
+
+Copyright (c) 2026 Nazmul Haque. All rights reserved.
+
+This End User License Agreement ("Agreement") is a legal agreement between you
+("Licensee", "you") and Nazmul Haque, of Kashobpara, Meherpur, Meherpur Sadar,
+Meherpur, PO 7100, Bangladesh ("Licensor", "we", "us"), the author and owner of
+the QuickDB extension for Visual Studio Code and compatible editors, together
+with its binaries, source code, documentation, assets, and related materials
+(collectively, the "Extension").
+
+By downloading, installing, enabling, copying, or using the Extension, you
+acknowledge that you have read this Agreement and agree to be bound by it. If you
+do not agree to every term, do not download, install, or use the Extension, and
+remove it from all of your devices.
+
+The Extension is licensed, not sold. Except for the limited rights expressly
+granted in Section 2 and Section 4, Licensor reserves all rights in and to the
+Extension.
+
+
+1. DEFINITIONS
+
+   a. "Free Features" — functionality of the Extension that Licensor makes
+      available at no charge.
+
+   b. "Pro Features" — advanced or premium functionality that is enabled only
+      with a valid paid plan, subscription, or license key offered by Licensor
+      (the "Pro Plan").
+
+   c. "Open-Source Components" — third-party software included with or used by
+      the Extension that is distributed under its own open-source license.
+
+
+2. GRANT OF LICENSE
+
+   Subject to your continued compliance with this Agreement, Licensor grants you
+   a personal, limited, non-exclusive, non-transferable, non-sublicensable, and
+   revocable license whose scope is strictly limited to the following, and to
+   nothing else:
+
+   a. download and install the Extension from an official distribution channel
+      onto any number of devices that you own or control;
+
+   b. use the Free Features at no charge, for your personal or internal business
+      purposes; and
+
+   c. after purchasing a valid Pro Plan, use the Pro Features for the duration
+      and within the limits of that plan.
+
+   This is the only license granted to you. All rights not expressly granted are
+   reserved by Licensor. Any access to, or use, copying, or other handling of the
+   Extension that is not expressly permitted above is prohibited (see Section 5).
+
+
+3. EDITIONS AND THE PRO PLAN
+
+   a. The Extension is offered in a free edition and a paid edition. Free
+      Features may be used under this Agreement at no charge.
+
+   b. Pro Features require an active, valid, and paid Pro Plan. You may access
+      and use Pro Features only while your Pro Plan is valid and only in
+      accordance with the plan you purchased.
+
+   c. Licensor may determine and change, at its sole discretion, which features
+      are Free Features and which are Pro Features, as well as pricing, plan
+      tiers, and plan terms, for current and future versions of the Extension.
+
+   d. You must not access, unlock, enable, or use Pro Features without a valid
+      Pro Plan, and you must not bypass, disable, tamper with, or otherwise
+      circumvent any licensing, activation, payment, usage-metering, or
+      feature-gating mechanism in the Extension.
+
+
+4. SUPPORT INTERACTIONS (LIMITED EXCEPTION)
+
+   Beyond the license granted in Section 2, the only additional activity
+   permitted under this Agreement is contacting Licensor for support — namely,
+   reporting bugs, defects, or security concerns and requesting features by
+   opening an issue in the official issue tracker at
+   https://github.com/nazzmulhq/quickdb/issues, and otherwise providing feedback
+   to Licensor. This is a narrow exception only; it grants no right to copy,
+   clone, modify, distribute, or otherwise handle the Extension, and all such
+   actions remain prohibited under Section 5.
+
+
+5. RESTRICTIONS
+
+   Except as expressly permitted by this Agreement or required by mandatory
+   applicable law, you must NOT, and must not permit or enable any third party
+   to:
+
+   a. copy the Extension, other than the single copy created by ordinary
+      installation and reasonable backup copies;
+
+   b. clone, download, fork, mirror, archive, scrape, or otherwise obtain the
+      Extension's source code or repository (the support exception in Section 4
+      does not authorize this);
+
+   c. modify, adapt, translate, patch, build upon, or create derivative works of
+      the Extension;
+
+   d. reverse engineer, decompile, disassemble, or otherwise attempt to discover
+      the source code, structure, or underlying ideas of the Extension, except
+      and only to the extent this restriction is expressly prohibited by
+      applicable law;
+
+   e. distribute, publish, sublicense, sell, resell, rent, lease, lend, host as
+      a service, transfer, or otherwise make the Extension available to any third
+      party;
+
+   f. remove, alter, obscure, or falsify any copyright, trademark, license,
+      authorship, or other proprietary notice;
+
+   g. use the Extension, in whole or in part, to design, develop, train, or
+      market a product or service that competes with the Extension;
+
+   h. circumvent, disable, or interfere with any license validation, usage
+      limit, security control, or Pro Feature gating; or
+
+   i. use the Extension in any way that violates applicable law or infringes the
+      rights of any third party.
+
+
+6. FEEDBACK AND BUG REPORTS
+
+   Reporting issues and submitting feedback is welcome and is the only form of
+   contribution to the Extension permitted under this Agreement. It does not
+   grant you any right to modify, copy, or redistribute the Extension. By
+   submitting any bug report, feedback, suggestion, or idea, you grant Licensor
+   a worldwide, perpetual, irrevocable, royalty-free license to use, reproduce,
+   incorporate, and otherwise exploit it for any purpose without obligation or
+   compensation to you. Licensor is under no obligation to respond to, act on,
+   or implement any report or request.
+
+
+7. INTELLECTUAL PROPERTY
+
+   a. Ownership. The Extension, excluding Open-Source Components, and all
+      worldwide copyrights, trademarks, trade secrets, and other intellectual
+      property rights in its proprietary portions, are and remain the exclusive
+      property of Licensor. No title or ownership is transferred to you under
+      this Agreement.
+
+   b. Your Data and Content. Databases, queries, connection details, query
+      results, charts, exports, and any other content that you create, supply,
+      or process using the Extension remain yours. Licensor claims no ownership
+      of it.
+
+
+8. UPDATES AND SUPPORT
+
+   Licensor may, at its sole discretion, provide updates, upgrades, new
+   versions, or support, and may add, modify, suspend, or discontinue the
+   Extension or any feature (including Free Features, Pro Features, and any
+   online services) at any time, with or without notice. Continued use of the
+   Extension after an update constitutes acceptance of the then-current version
+   of this Agreement.
+
+
+9. TERM AND TERMINATION
+
+   This Agreement is effective until terminated. It terminates automatically and
+   immediately if you breach any of its terms. Licensor may also suspend or
+   terminate your license, including access to Pro Features, for non-payment or
+   for any violation of this Agreement. Upon termination you must immediately
+   stop using the Extension and uninstall and delete all copies in your
+   possession or control. Sections 5 through 13 survive termination.
+
+
+10. DISCLAIMER OF WARRANTY
+
+    THE EXTENSION IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+    KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION
+    THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+    TITLE, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE EXTENSION
+    WILL BE ERROR-FREE, SECURE, OR UNINTERRUPTED, OR THAT IT WILL MEET YOUR
+    REQUIREMENTS. YOU USE THE EXTENSION AT YOUR SOLE RISK. BECAUSE THE EXTENSION
+    CAN READ, WRITE, AND DELETE DATA IN YOUR DATABASES, YOU ARE SOLELY
+    RESPONSIBLE FOR MAINTAINING APPROPRIATE BACKUPS AND ACCESS CONTROLS.
+
+
+11. LIMITATION OF LIABILITY
+
+    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR
+    BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR
+    PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, OR GOODWILL,
+    ARISING OUT OF OR RELATING TO THE EXTENSION OR THIS AGREEMENT, EVEN IF
+    LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. LICENSOR'S
+    TOTAL AGGREGATE LIABILITY UNDER THIS AGREEMENT WILL NOT EXCEED THE GREATER OF
+    (i) THE AMOUNTS YOU PAID TO LICENSOR FOR THE EXTENSION IN THE TWELVE (12)
+    MONTHS PRECEDING THE EVENT GIVING RISE TO THE CLAIM, OR (ii) USD $50.
+
+
+12. OPEN-SOURCE COMPONENTS
+
+    The Extension includes Open-Source Components that remain governed by their
+    own license terms and owned by their respective copyright holders, not
+    Licensor. Nothing in this Agreement limits your rights, or expands your
+    obligations, under those open-source licenses. In the event of a conflict
+    between this Agreement and an applicable open-source license with respect to
+    an Open-Source Component, the open-source license governs for that component.
+    A list of such components and their licenses is available from the
+    Extension's dependency manifests and repository.
+
+
+13. GOVERNING LAW
+
+    This Agreement is governed by and construed in accordance with the laws of
+    the People's Republic of Bangladesh, without regard to its conflict-of-laws
+    principles. The courts located in Meherpur, Bangladesh will have exclusive
+    jurisdiction over any dispute arising out of or relating to this Agreement,
+    and you consent to their jurisdiction and venue.
+
+
+14. GENERAL
+
+    a. Entire Agreement. This Agreement is the entire agreement between you and
+       Licensor regarding the Extension and supersedes all prior or
+       contemporaneous understandings.
+
+    b. Amendments. Licensor may update this Agreement from time to time. The
+       updated version applies to your continued use of the Extension.
+
+    c. Severability. If any provision is held invalid or unenforceable, the
+       remaining provisions remain in full force and effect.
+
+    d. No Waiver. Licensor's failure to enforce any provision is not a waiver of
+       that or any other provision.
+
+    e. Assignment. You may not assign or transfer this Agreement or any rights
+       under it. Licensor may assign it freely.
+
+
+15. CONTACT
+
+    Licensor:               Nazmul Haque
+    Address:                Kashobpara, Meherpur, Meherpur Sadar, Meherpur,
+                            PO 7100, Bangladesh
+    Licensing and legal:    nazmul2018s@gmail.com
+    Bug reports & requests: https://github.com/nazzmulhq/quickdb/issues
